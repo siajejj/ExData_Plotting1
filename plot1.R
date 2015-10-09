@@ -1,6 +1,6 @@
 ## Script name: plot1.R
 ## Created with: R-studio v 0.99.486/ R v 3.2.2
-## Dependencies: packages data.table, lubridate
+## Dependencies: packages data.table, lubridate, dplyr
 ## Assumes the data used is placed in a subfolder "data" to the working directory.
 ## Data can be downloaded by running the script "downloadData.R".
 
